@@ -1,3 +1,10 @@
+ddclient (3.9.0-0utopia1) UNRELEASED; urgency=medium
+
+  * Utopia Repository upload.
+  * New upstream release.
+
+ -- James Lu <james@overdrivenetworks.com>  Sat, 01 Sep 2018 20:18:14 -0700
+
 ddclient (3.8.3-1.1) unstable; urgency=medium
 
   * Non-maintainer upload.
