@@ -3,7 +3,7 @@ DEP: 3
 Forwarded: no
 --- a/ddclient
 +++ b/ddclient
-@@ -387,7 +387,7 @@ my %variables = (
+@@ -393,7 +393,7 @@
  	'atime'               => setv(T_NUMBER, 0, 1, 0, 0,                   undef),
  	'status'              => setv(T_ANY,    0, 1, 0, '',                  undef),
  	'min-interval'        => setv(T_DELAY,  0, 0, 1, interval('30s'),     0),

@@ -3,7 +3,7 @@ DEP: 3
 Forwarded: no
 --- a/ddclient
 +++ b/ddclient
-@@ -29,7 +29,7 @@ my $program   = $programd;
+@@ -33,7 +33,7 @@
  $program  =~ s/d$//;
  my $now       = time;
  my $hostname  = hostname();

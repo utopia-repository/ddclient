@@ -2,6 +2,9 @@ ddclient (3.9.0-0utopia1) UNRELEASED; urgency=medium
 
   * Utopia Repository upload.
   * New upstream release.
+  * patches:
+    - Tentatively disable usev6.diff as it does not apply against 3.9.0.
+    - config_path.diff, maxinterval.diff, mc-barricade-fw-alt.diff: refresh
 
  -- James Lu <james@overdrivenetworks.com>  Sat, 01 Sep 2018 20:18:14 -0700
 

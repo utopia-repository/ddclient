@@ -3,7 +3,7 @@ DEP: 3
 Forwarded: no
 --- a/ddclient
 +++ b/ddclient
-@@ -88,6 +88,11 @@ my %builtinfw = (
+@@ -92,6 +92,11 @@
  				  'url'  => '/status.HTM',
  				  'skip' => 'WAN IP',
  			        },
